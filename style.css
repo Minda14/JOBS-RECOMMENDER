@@ -1,0 +1,21 @@
+/* style.css */
+
+/* Set background color */
+body {
+    background-color: #f0f2f6;
+}
+
+/* Customize button */
+.stButton button {
+    background-color: #007bff;
+    color: white;
+    font-weight: bold;
+    padding: 0.5rem 1rem;
+    border-radius: 0.25rem;
+}
+
+/* Customize expander */
+.streamlit-expanderHeader {
+    font-size: 1.1rem;
+    font-weight: bold;
+}
